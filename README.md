@@ -13,6 +13,9 @@ $ clang -masm=intel -S <c_source>
 ## キーワード
 
  * 再帰下降構文解析(Recursive Descent Parsing)
+ * トークン(token)
+   * トークナイズする: 文字列をトークン列に分割すること
+   * 文字列をトークンに分割すると、トークンを分類して型を付けることができるようになる。
 
 ## 参考URL
 
